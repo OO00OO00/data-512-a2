@@ -4,7 +4,7 @@ Name: Will Frierson
 Date: 2018-10-31
 
 # Goal
-The goal of this project is to illustrate bias of political articles across different nations. In particular, a set of tables are produced that show the extremes of articles of politicians per capita and proportion of high quality political articles for each country included in this analysis.
+The goal of this project is to illustrate bias of political articles within Wikipedia across different nations. In particular, a set of tables are produced that show the extremes of articles of politicians per capita and proportion of high quality political articles for each country included in this analysis.
 
 # Data sources used
 To create these tables, we will draw from three data sources:
