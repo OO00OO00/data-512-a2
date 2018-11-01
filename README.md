@@ -18,13 +18,14 @@ Documentation for Python can be found here: https://docs.python.org/3.5/
 Documentation for Jupyter Notebook can be found here: http://jupyter-notebook.readthedocs.io/en/latest/
 
 The following Python packages were used and their documentation can be found at the accompanying links:
-requests, http://docs.python-requests.org/en/master/
-json, https://docs.python.org/3/library/json.html
-pandas, https://pandas.pydata.org/
-os, https://docs.python.org/3/library/os.html
-csv, https://docs.python.org/3/library/csv.html
-numpy, http://www.numpy.org/
-IPython, https://pypi.org/project/ipython/
+
+* requests, http://docs.python-requests.org/en/master/
+* json, https://docs.python.org/3/library/json.html
+* pandas, https://pandas.pydata.org/
+* os, https://docs.python.org/3/library/os.html
+* csv, https://docs.python.org/3/library/csv.html
+* numpy, http://www.numpy.org/
+* IPython, https://pypi.org/project/ipython/
 
 # Files Created
 This notebook creates 1 CSV file of data, named "wikipedia_political_article_bias_2018.csv", extracted and compiled as part of this analysis.
